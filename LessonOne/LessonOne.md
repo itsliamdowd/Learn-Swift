@@ -44,4 +44,6 @@ The index can be increased or decreased to find other elements in the array.
 
 <img width="1386" alt="First Food" src="https://user-images.githubusercontent.com/101684827/192934282-0dab299f-584f-41ed-8d7e-2256b3bbfb15.png">
 
+To add an item to an array, use the name of the array then append with what you want to add in parenthesis ````food.append("pineapple")````
+
 ### Dictionaries
