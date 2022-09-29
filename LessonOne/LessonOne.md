@@ -1,6 +1,6 @@
-### The Swift Programming Language
+## The Swift Programming Language
 
-## Variables
+### Variables
 
 A variable is a value that can be altered depending on changes in the program or specific changes.
 
@@ -12,7 +12,7 @@ To define a variable in Swift, you will use the ````var```` keyword.
 
 <img width="1420" alt="Favorite Website" src="https://user-images.githubusercontent.com/101684827/192933428-6880fd8d-f5ff-448c-b058-29beb22be749.png">
 
-## Constants
+### Constants
 
 Unlike a variable, a constant cannot be altered within the program and will throw an error if the program attempts to change its value.
 
@@ -24,7 +24,7 @@ To define a constant in Swift, you will use the ````let```` keyword.
 
 <img width="1420" alt="Favorite Movie" src="https://user-images.githubusercontent.com/101684827/192932988-43fe1fe9-d82f-4373-a98c-84f924e3a173.png">
 
-## Arrays
+### Arrays
 
 Arrays are used to store multiple items of the same type of data.
 
@@ -44,4 +44,4 @@ The index can be increased or decreased to find other elements in the array.
 
 <img width="1386" alt="First Food" src="https://user-images.githubusercontent.com/101684827/192934282-0dab299f-584f-41ed-8d7e-2256b3bbfb15.png">
 
-## Dictionaries
+### Dictionaries
