@@ -1,5 +1,12 @@
 ## The Basics of the Swift Programming Language
 
+### Camel Case
+A large amount of swift programmers use the "camel case" naming for naming variables
+
+Camel case can be used by making the first letter uncapitalized and then capitalizing the first letter of each following word without using spaces
+
+A couple examples would be ````myVariable, listOfFruits, and namesOfBeaches````
+
 ### Variables
 
 A variable is a value that can be altered depending on changes in the program.
