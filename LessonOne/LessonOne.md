@@ -2,7 +2,7 @@
 
 ### Variables
 
-A variable is a value that can be altered depending on changes in the program or specific changes.
+A variable is a value that can be altered depending on changes in the program.
 
 In Swift, like every other programming language, variables are essential to making a program that works effectively.
 
