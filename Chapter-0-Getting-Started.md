@@ -12,10 +12,10 @@ The download should take a little while depending on your wifi connection, so le
 
 Once the download is finished, launch Xcode.
 
-<img width="489" alt="New Project Screen" src="https://user-images.githubusercontent.com/101684827/192915529-d6425774-1e09-455f-9593-edec74fa3a36.png">
+Go to the navigation bar and click File > New > File... and then click Swift File and next
 
-Click on the "Create New Project" button (the one with the plus sign inside the box).
+<img width="1510" alt="Creating Swift File" src="https://user-images.githubusercontent.com/101684827/192929868-fc9b9344-79b5-434e-bb10-1bef569fd4f7.png">
 
-<img width="1393" alt="Swift Playgrounds" src="https://user-images.githubusercontent.com/101684827/192915722-3a372b25-dbec-4373-a9d8-260da7aa6bb8.png">
+From there, name your file something like "LearningSwift" and then click create
 
-Make sure you are in the iOS section on the top and then click on the "Swift Playgrounds App" button.
+<img width="1465" alt="File Screen" src="https://user-images.githubusercontent.com/101684827/192930133-feba7efb-17de-4de9-8a5a-26c910a189a1.png">
