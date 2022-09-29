@@ -14,12 +14,12 @@ The download should take a little while depending on your wifi connection, so le
 
 Once the download is finished, launch Xcode.
 
-Go to the navigation bar and click File > New > File... and then click Swift File and next
+Go to the navigation bar and click File > New > Playground... and then click "Blank" and "Next"
 
-<img width="1510" alt="Creating Swift File" src="https://user-images.githubusercontent.com/101684827/192929868-fc9b9344-79b5-434e-bb10-1bef569fd4f7.png">
+<img width="1437" alt="Creating Playground" src="https://user-images.githubusercontent.com/101684827/192931573-4ce0417e-9285-42db-a434-ee8860378375.png">
 
-From there, name your file something like "LearningSwift" and then click create
+From there, name your playground file something like "LearningSwift" and then click create
 
-<img width="1465" alt="File Screen" src="https://user-images.githubusercontent.com/101684827/192930133-feba7efb-17de-4de9-8a5a-26c910a189a1.png">
+<img width="1420" alt="File Screen" src="https://user-images.githubusercontent.com/101684827/192931762-72bc5914-0092-4ca7-ae49-e37a04d5f864.png">
 
 You did it! You're all set to learn the basics of Swift in Lesson Two.
