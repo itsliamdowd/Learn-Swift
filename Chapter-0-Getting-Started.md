@@ -2,9 +2,11 @@
 
 ## Downloading Xcode
 
-To download Xcode, first open the App Store on your Mac device.
+To use the Swift programming language in the easiest way possible, you will need to download Xcode.
 
-Type in the search bar "Xcode" and click the install button the result shown below with the hammer and blueprint in the background.
+To do this, first open the App Store on your Mac device.
+
+Type in the search bar "Xcode" and click the install button on the result shown below with the hammer and blueprint in the background.
 
 <img width="1172" alt="Downloading Xcode from App Store Search" src="https://user-images.githubusercontent.com/101684827/192915197-da1bbca1-b889-4453-8ff7-ca8328e8b080.png">
 
