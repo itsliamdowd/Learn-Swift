@@ -27,10 +27,17 @@ To define a variable with an integer value, use ````var myInteger = 4````
 ### Boolean
 In Swift, a boolean represents ````true```` or ````false````
 
-Booleans are useful because they can be used to change what runs in the program if a condition is met or not
+Booleans are useful because they can be used to change what runs in the program depending if a condition is met or not
 
 To define a variable with an boolean value, use ````var myBoolean = true````
 
 **Project:** Make a variable that contains if the weather is cloudy outside today as an boolean value
 
 ### Character
+In Swift, a character represents a ````single string character````
+
+Characters can only hold a single character and, if you try to assign more text to them, you will recieve an error
+
+To define a variable with an character value, use ````var myCharacter: Character = "a"````
+
+**Project:** Make a variable that contains a letter as an character value
