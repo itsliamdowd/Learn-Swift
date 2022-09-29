@@ -5,7 +5,7 @@ In Swift, a string represents text.
 
 Strings are wrapped in double quotes like this ````"Hello World!"````
 
-To define a variable with a string value, use ````var myVariable = "This is my variable"````
+To define a variable with a string value, use ````var myString = "This is my variable"````
 
 **Project:** Make a variable that contains "Hello World!" as a string value
 
@@ -16,6 +16,8 @@ Integers can be positive or negative but cannot contain a decimal value
 
 Integers cannot be wrapped in double quotes and should be represented as just a regular number like ````4````
 
+To define a variable with an integer value, use ````var myInteger = 4````
+
 **Project:** Make a variable that contains your favorite number as an integer value
 
 ### Float
@@ -23,5 +25,12 @@ Integers cannot be wrapped in double quotes and should be represented as just a 
 ### Double
 
 ### Boolean
+In Swift, a boolean represents ````true```` or ````false````
+
+Booleans are useful because they can be used to change what runs in the program if a condition is met or not
+
+To define a variable with an boolean value, use ````var myBoolean = true````
+
+**Project:** Make a variable that contains if the weather is cloudy outside today as an boolean value
 
 ### Character
