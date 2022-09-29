@@ -21,3 +21,5 @@ Go to the navigation bar and click File > New > File... and then click Swift Fil
 From there, name your file something like "LearningSwift" and then click create
 
 <img width="1465" alt="File Screen" src="https://user-images.githubusercontent.com/101684827/192930133-feba7efb-17de-4de9-8a5a-26c910a189a1.png">
+
+You did it! You're all set to learn the basics of Swift in Lesson Two.
