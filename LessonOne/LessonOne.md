@@ -1,4 +1,4 @@
-## The Swift Programming Language
+## The Basics of the Swift Programming Language
 
 ### Variables
 
