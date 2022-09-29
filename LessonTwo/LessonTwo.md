@@ -7,14 +7,16 @@ Strings are wrapped in double quotes like this ````"Hello World!"````
 
 To define a variable with a string value, use ````var myVariable = "This is my variable"````
 
-**Project:** Make a variable that contains "Hello World!" as a string value.
+**Project:** Make a variable that contains "Hello World!" as a string value
 
 ### Integer
-In Swift, an integer represents a number value.
+In Swift, an integer represents a number value
 
-Integers can be positive or negative but cannot contain a decimal value.
+Integers can be positive or negative but cannot contain a decimal value
 
-**Project:** Make a variable that contains your favorite number as an integer value.
+Integers cannot be wrapped in double quotes and should be represented as just a regular number like ````4````
+
+**Project:** Make a variable that contains your favorite number as an integer value
 
 ### Float
 
