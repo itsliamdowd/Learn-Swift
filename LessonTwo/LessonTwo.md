@@ -23,9 +23,21 @@ To define a variable with an integer value, use ````var myInteger = 4````
 
 
 ## Float
+In Swift, a float represents a ````number with a decimal```` value
+
+To define a variable with an float value, use ````var myFloat = 3.14````
+
+**Project:** Make a variable that contains 2 decimals of pi as a float value
 
 
 ## Double
+In Swift, a double represents a ````number with a decimal```` value
+
+The difference between a float and a double is that a double can hold much more decimals
+
+To define a variable with an double value, use ````var myDouble: Double = 3.14````
+
+**Project:** Make a variable that contains 2 decimals of pi as a double value
 
 
 ## Boolean
