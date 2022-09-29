@@ -1,4 +1,4 @@
-## Data Types of the Swift Programming Language
+# Data Types of the Swift Programming Language
 
 ### String
 In Swift, a string represents ````text````
