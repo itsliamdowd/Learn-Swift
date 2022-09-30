@@ -5,7 +5,27 @@
 
 
 ## Switches
+Switches can be used in Swift to easily control a program depending on the value of something
 
+Switches use the ````switch```` and ````case```` keywords to control which section of the code gets run
+
+An example of a switch to determine the outcome of an election is:
+````
+var electionResult = "win"
+
+switch electionResult{
+    case "win":
+        print("win")
+    case "loss":
+        print("loss")
+    case "draw":
+        print("draw")
+    default:
+        print("unknown election result")
+}
+````
+
+**Project:** Define the variable "didWinElection" and set the value equal to true. Then, write a switch statement that checks if the election was won or lost depending on the value of didWinElection and then print something different to the output
 
 ## If Statements
 An if statement can help you control the way a program operates depending on if a specific condition or set of conditions are met
