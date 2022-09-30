@@ -53,9 +53,9 @@ The index can be increased or decreased to find other elements in the array.
 
 To add an item to an array, use the name of the array then append with what you want to add in parenthesis ````myArray.append("Something")````
 
-**Project:** Add a fruit to the food array
+**Project:** Add a fruit to the foods array
 
-
+<img width="1430" alt="Append to Array Project" src="https://user-images.githubusercontent.com/101684827/193165264-67f5c395-0bec-4bc1-8088-b871b083b9a1.png">
 
 ### Dictionaries
 
