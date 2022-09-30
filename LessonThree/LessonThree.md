@@ -1,13 +1,24 @@
-# of the Swift Programming Language
+# Control Flow of the Swift Programming Language
 
 
 ## For Loops
+For loops repeat a specific block or line of code multiple times
 
+Loops use the keywords ````for```` and ````in```` to cycle through an array or run code a specific number of times
+
+An example of a for loop that cycles through an array of languages and prints the language is:
+````
+let languages = ["English", "Spanish", "French", "Italian"]
+
+for language in languages {
+      print(language)
+}
+````
 
 ## Switches
 Switches can be used in Swift to easily control a program depending on the value of something
 
-Switches use the ````switch```` and ````case```` keywords to control which section of the code gets run
+Switches use the ````switch````, ````case````, and ````default```` keywords to control which section of the code gets run
 
 An example of a switch to determine the outcome of an election is:
 ````
