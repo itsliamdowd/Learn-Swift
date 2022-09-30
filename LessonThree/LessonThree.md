@@ -25,7 +25,9 @@ switch electionResult{
 }
 ````
 
-**Project:** Define the variable "didWinElection" and set the value equal to true. Then, write a switch statement that checks if the election was won or lost depending on the value of didWinElection and then print something different to the output
+**Project:** Define the variable "didWinElection" and set the value equal to true. Then, write a switch statement that checks if the election was won or loss depending on the value of didWinElection and then print something different to the output
+
+<img width="1430" alt="Did win Election Project" src="https://user-images.githubusercontent.com/101684827/193163561-75004159-9b7c-43b7-860c-1a9fc36d4c36.png">
 
 ## If Statements
 An if statement can help you control the way a program operates depending on if a specific condition or set of conditions are met
