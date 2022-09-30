@@ -7,6 +7,8 @@ Camel case can be used by making the first letter uncapitalized and then capital
 
 A couple examples would be ````myVariable, listOfFruits, and namesOfBeaches````
 
+It is not required to use camel case when coding in Swift, but it can help other programmers understand your code better and keep code consistent
+
 ### Variables
 
 A variable is a value that can be altered depending on changes in the program.
@@ -59,7 +61,7 @@ To add an item to an array, use the name of the array then append with what you 
 
 ### Dictionaries
 
-### Print
+### Printing
 In Swift, printing something to the output is extremely easy
 
 Using the ````print```` keyword, you can print a string and other values that are not strings will be automatically converted to strings
@@ -72,3 +74,18 @@ print("Hello world!")
 **Project:** Define a variable and print it to the output
 
 <img width="1430" alt="Print Project" src="https://user-images.githubusercontent.com/101684827/193165003-a1d49fb9-92cf-46de-964d-544a7a28051d.png">
+
+### Comments
+Using ````//```` in front of anything, you can comment it out and it will not impact the rest of the program
+
+Comments can be used for removing code temporarily, explaining what code does, and writing messages within code
+
+An example of commenting something is:
+````
+//This code prints "Hello world" to the output
+print("Hello world!")
+````
+
+**Project:** Write a simple comment
+
+<img width="1430" alt="Simple Comment Project" src="https://user-images.githubusercontent.com/101684827/193165705-d72d88d3-5a68-498c-97a2-1ff1076b21a1.png">
