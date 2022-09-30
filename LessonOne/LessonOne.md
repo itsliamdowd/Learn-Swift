@@ -54,3 +54,17 @@ The index can be increased or decreased to find other elements in the array.
 To add an item to an array, use the name of the array then append with what you want to add in parenthesis ````food.append("pineapple")````
 
 ### Dictionaries
+
+### Print
+In Swift, printing something to the output is extremely easy
+
+Using the ````print```` keyword, you can print a string and other values that are not strings will be automatically converted to strings
+
+An example of printing a string is:
+````
+print("Hello world!")
+````
+
+**Project:** Define a variable and print it to the output
+
+<img width="1430" alt="Print Project" src="https://user-images.githubusercontent.com/101684827/193165003-a1d49fb9-92cf-46de-964d-544a7a28051d.png">
