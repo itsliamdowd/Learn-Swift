@@ -60,6 +60,14 @@ To add an item to an array, use the name of the array then append with what you 
 <img width="1430" alt="Append to Array Project" src="https://user-images.githubusercontent.com/101684827/193165264-67f5c395-0bec-4bc1-8088-b871b083b9a1.png">
 
 ### Dictionaries
+Dictionaries are useful because they let you store data in a key value format
+
+Using dictionaries, you can access specific data from its key
+
+For example
+````
+var someDict:[Int:String] = [1:"One", 2:"Two", 3:"Three"]
+````
 
 ### Printing
 In Swift, printing something to the output is extremely easy
@@ -89,3 +97,14 @@ print("Hello world!")
 **Project:** Write a simple comment
 
 <img width="1430" alt="Simple Comment Project" src="https://user-images.githubusercontent.com/101684827/193165705-d72d88d3-5a68-498c-97a2-1ff1076b21a1.png">
+
+You can also comment out much more code at once through using ````/*```` and ````*/```` to make a multi-line comment
+
+An example of a multi-line comment is:
+````
+/*
+This code prints "Hello world" to the output
+This code also is very important to the program
+*/
+print("Hello world!")
+````
