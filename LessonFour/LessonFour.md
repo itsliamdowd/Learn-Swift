@@ -28,7 +28,7 @@ Go under the "viewDidLoad()" function and, within the parenthesis, add a print s
 
 Compile and run the code on a virtual iOS device py pressing the arrow button on the top left of the screen
 
-A virtual device should launch and the output should have your message written
+A virtual device should launch with a white screen and the output on the Xcode side of things should have your message written in it
 
 **Congratulations! You have just taken a huge step towards learning app development!**
 
