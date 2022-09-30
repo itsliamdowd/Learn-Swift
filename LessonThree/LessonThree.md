@@ -15,6 +15,19 @@ for language in languages {
 }
 ````
 
+Code can also be run a specified number of times without looping through an array using for loops
+
+An example to loop code a specified number of times is:
+````
+for number in 1...5 {
+  print(number)
+}
+````
+
+**Project:** Make a program that prints a string to the output ten times in three lines of code and for loops
+
+<img width="1430" alt="Code to Run 10 Times" src="https://user-images.githubusercontent.com/101684827/193164557-79548d28-3015-4a17-ab7d-ac2f8440afde.png">
+
 ## Switches
 Switches can be used in Swift to easily control a program depending on the value of something
 
