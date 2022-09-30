@@ -7,7 +7,7 @@ Camel case can be used by making the first letter uncapitalized and then capital
 
 A couple examples would be ````myVariable, listOfFruits, and namesOfBeaches````
 
-It is not required to use camel case when coding in Swift, but it can help other programmers understand your code better and keep code consistent
+It is not required to use camel case when coding in Swift, but it can help other programmers understand your code better and keep code consistent between programmers
 
 ### Variables
 
