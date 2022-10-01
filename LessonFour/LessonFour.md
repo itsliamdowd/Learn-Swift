@@ -32,5 +32,40 @@ A virtual device should launch with a white screen and the output on the Xcode s
 
 **Congratulations! You have just taken a huge step towards learning app development!**
 
-## Making the App More Complex
+## Accessing the Storyboard
+Tap the button on the top right of the screen with the plus sign in a rounded box as its icon
+
+You should see that you have another view on the right side of your screen
+
+We are now going to change the view from the viewcontroller to the storyboard where we can place our elements
+
+Tap the ViewControoller button on the right side of the screen and scoll down to Main > Main (Base) and click the option
+
+You should arrive at a screen like this with the code editor on the left side and the storyboard on the right side of the screen
+
+<img width="1512" alt="Storyboard and Code Editor" src="https://user-images.githubusercontent.com/101684827/193379651-56b0825b-12a2-4660-950a-ce110ddeb40f.png">
+
+Now you are all set to start adding UI elements to your app
+
+## Basic UIKit Elements
+We will start by adding a label to the app and then customize its text
+
+To add the label, click the plus button on the top right of the screen and then drag the "Label" button (first option) onto the white iPhone screen
+
+Center the label in the middle of the screen and then click on the label
+
+You can now customize the label's properties on the right side of the screen
+
+**Project:** Mess around with the properties of the label using the menu to add custom text and increase the font size of the label
+
+<img width="1512" alt="Label Properties" src="https://user-images.githubusercontent.com/101684827/193379820-bb7d2a0c-4dfa-48d8-8905-57eb670700fa.png">
+
+Open the menu on the left side of the screen by clicking on "iPod Touch 7" to change the target simulator device to "iPhone 11" anc click that option
+
+Compile and run the app by pressing the arrow button on the top left side of the screen to ensure you followed the steps properly
+
+You should get an output like this
+
+<img width="1393" alt="Label Setup" src="https://user-images.githubusercontent.com/101684827/193379983-9c275dd1-22e5-467b-a71f-80e400392e34.png">
+
 
