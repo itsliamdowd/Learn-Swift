@@ -56,9 +56,9 @@ Center the label in the middle of the screen and then click on the label
 
 You can now customize the label's properties on the right side of the screen
 
-**Project:** Mess around with the properties of the label using the menu to add custom text and increase the font size of the label
+**Project:** Explore and mess around with the properties of the label using the menu to add custom text and increase the font size of the label
 
-<img width="1512" alt="Label Properties" src="https://user-images.githubusercontent.com/101684827/193379820-bb7d2a0c-4dfa-48d8-8905-57eb670700fa.png">
+<img width="1512" alt="Label Properties" src="https://user-images.githubusercontent.com/101684827/193380033-7f5f6408-09fd-4507-becf-4ab38800bc9f.png">
 
 Open the menu on the left side of the screen by clicking on "iPod Touch 7" to change the target simulator device to "iPhone 11" anc click that option
 
