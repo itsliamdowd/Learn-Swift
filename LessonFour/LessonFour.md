@@ -60,7 +60,7 @@ You can now customize the label's properties on the right side of the screen
 
 <img width="1512" alt="Label Properties" src="https://user-images.githubusercontent.com/101684827/193380033-7f5f6408-09fd-4507-becf-4ab38800bc9f.png">
 
-Open the menu on the left side of the screen by clicking on "iPod Touch 7" to change the target simulator device to "iPhone 11" anc click that option
+Open the menu on the left side of the screen by clicking on "iPod tough (7th Generation)" to change the target simulator device to "iPhone 11" and click that option
 
 Compile and run the app by pressing the arrow button on the top left side of the screen to ensure you followed the steps properly
 
